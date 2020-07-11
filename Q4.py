@@ -44,5 +44,5 @@ elif a == 'true':                #Opposite of false...
         print()
 
 else:
-    print('Please Enter True or false....')
+    print('Please Enter True or False....')
 
